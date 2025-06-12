@@ -1,6 +1,6 @@
 # 📊 Telecom Customer Churn Prediction
 
-This project aims to predict customer churn in the telecom industry using machine learning techniques. By analyzing customer behavior and service usage patterns, the model identifies users likely to discontinue services, enabling proactive retention strategies.
+This project aims to predict customer churn in the telecom industry using machine learning techniques. By analyzing customer behavior and service usage patterns, the model identifies users likely to discontinue services, enabling proactive retention strategies. 
 
 ## 🚀 Project Overview
 
